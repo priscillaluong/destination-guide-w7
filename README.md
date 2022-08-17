@@ -1,5 +1,5 @@
 # Project requirements
-Create a front-end application that could be added to personal portfolio and presented to potential employers. 
+Create a front-end application to be presented to potential employers. 
 Develop the application concept and user story considering the type of users, what they want and why.
 Create a 10-minute presentation to provide a brief overview of the application, work that has been done and ideas for future development.
 
