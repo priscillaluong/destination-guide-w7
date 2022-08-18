@@ -54,3 +54,8 @@ We approached this task by first creating a wireframe on Adobe InDesign to map o
 ## URL to Deployed Application:
 
 https://priscillaluong.github.io/destination-guide-w7/
+
+## URL to Presentation:
+
+https://docs.google.com/presentation/d/1bxAc66CqurzHrctBxrlbO_LEosL77Pe--6m4l6kAXn4/edit?usp=sharing
+
